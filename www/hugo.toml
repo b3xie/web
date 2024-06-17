@@ -10,7 +10,7 @@ theme = "glim-midnight"
     links = [
     {name = "instagram", url = "https://www.instagram.com/bex.computer"},
     {name = "blog", url = "https://blog.bex.computer"},
-    {name = "📷galeria", url = "https://pics.bex.computer"},
+    {name = "flickr", url = "https://www.flickr.com/people/beccanyx"},
     {name = "email", url = "mailto:contact@bex.computer"},
     {name = "github", url = "https://github.com/b3xie"},
     ]
