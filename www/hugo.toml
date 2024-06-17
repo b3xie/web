@@ -1,3 +1,17 @@
-baseURL = 'https://example.org/'
+baseURL = 'https://bex.computer/'
 languageCode = 'en-us'
-title = 'My New Hugo Site'
+title = 'bex.computer'
+theme = "glim-midnight"
+
+
+[params]
+    title = "/bex"
+    phrases = ["welcome", "choose your destination:"]
+    links = [
+    {name = "instagram", url = "https://www.instagram.com/bex.computer"},
+    {name = "blog", url = "https://blog.bex.computer"},
+    {name = "📷galeria", url = "https://pics.bex.computer"},
+    {name = "email", url = "mailto:contact@bex.computer"},
+    {name = "github", url = "https://github.com/b3xie"},
+    ]
+    background = "bg.mp4"
