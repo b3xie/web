@@ -17,6 +17,9 @@ palette = 'tokyo-night-dark'
     name = "post"
     url = "/post"
     weight = 10
+  [permalinks.section]
+    posts = '/posts/'
+    gallery = '/gallery/'
 [params.about]
   title = "bex ΘΔ"
   description = "this website hosts my writings, pictures, and deragend schizotypal thoughts. you can find my other stuff at: https://bex.computer"
