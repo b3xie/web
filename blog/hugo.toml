@@ -11,14 +11,13 @@ palette = 'tokyo-night-dark'
     name = "gallery"
     url = "/gallery"
     weight = 10
-
   [[menu.main]]
     identifier = "post"
     name = "post"
     url = "/post"
     weight = 10
   [permalinks.section]
-    posts = '/posts/'
+    posts = '/post/'
     gallery = '/gallery/'
 [params.about]
   title = "bex ΘΔ"
