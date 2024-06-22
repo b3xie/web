@@ -1,4 +1,28 @@
-baseURL = 'https://example.org/'
+baseURL = 'https://blog.bex.computer'
 languageCode = 'en-us'
-title = 'My New Hugo Site'
+title = 'b3x'
 theme = 'risotto'
+
+[params.theme]
+palette = 'tokyo-night-dark'
+[menu]
+  [[menu.main]]
+    identifier = "gallery"
+    name = "gallery"
+    url = "/gallery"
+    weight = 10
+
+  [[menu.main]]
+    identifier = "post"
+    name = "post"
+    url = "/post"
+    weight = 10
+[params.about]
+  title = "bex ΘΔ"
+  description = "this website hosts my writings, pictures, and deragend schizotypal thoughts. you can find my other stuff at: https://bex.computer"
+  logo = "https://gravatar.com/avatar/7e6538d9ac382d7332de4c52682452370b8025dfc21035d57b93f26f1c201a62"
+
+[[params.socialLinks]]
+icon = "fa-brands fa-github"
+title = "GitHub"
+url = "https://github.com/b3xie"

@@ -1,0 +1,1 @@
+my pictures to be hosted in this index page
