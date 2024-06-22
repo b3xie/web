@@ -2,7 +2,9 @@ baseURL = 'https://blog.bex.computer'
 languageCode = 'en-us'
 title = 'b3x'
 theme = 'risotto'
-
+[permalinks.section]
+    posts = '/post/'
+    gallery = '/gallery/'
 [params.theme]
 palette = 'tokyo-night-dark'
 [menu]
@@ -16,9 +18,7 @@ palette = 'tokyo-night-dark'
     name = "post"
     url = "/post"
     weight = 10
-  [permalinks.section]
-    posts = '/post/'
-    gallery = '/gallery/'
+
 [params.about]
   title = "bex ΘΔ"
   description = "this website hosts my writings, pictures, and deragend schizotypal thoughts. you can find my other stuff at: https://bex.computer"
