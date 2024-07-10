@@ -1,1 +1,1 @@
-my pictures to be hosted in this index page
+pics and albums:

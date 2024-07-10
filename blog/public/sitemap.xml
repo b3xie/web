@@ -2,14 +2,20 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>https://blog.bex.computer/</loc>
+    <loc>http://localhost:1313/</loc>
   </url><url>
-    <loc>https://blog.bex.computer/gallery/</loc>
+    <loc>http://localhost:1313/gallery/</loc>
   </url><url>
-    <loc>https://blog.bex.computer/post/</loc>
+    <loc>http://localhost:1313/post/</loc>
   </url><url>
-    <loc>https://blog.bex.computer/categories/</loc>
+    <loc>http://localhost:1313/categories/</loc>
   </url><url>
-    <loc>https://blog.bex.computer/tags/</loc>
+    <loc>http://localhost:1313/tags/markdown/</loc>
+  </url><url>
+    <loc>http://localhost:1313/tags/</loc>
+  </url><url>
+    <loc>http://localhost:1313/tags/text/</loc>
+  </url><url>
+    <loc>http://localhost:1313/gallery/transient-states/</loc>
   </url>
 </urlset>
