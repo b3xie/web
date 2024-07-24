@@ -9,7 +9,7 @@ theme = "glim-midnight"
     phrases = ["welcome", "choose your destination:"]
     links = [
     {name = "instagram", url = "https://www.instagram.com/bex.computer"},
-    {name = "behance", url = "https://www.instagram.com/bex.computer"},
+    {name = "behance", url = "https://be.net/beccanyx"},
     {name = "github", url = "https://github.com/b3xie"},
     {name = "flickr", url = "https://www.flickr.com/people/beccanyx"},
     {name = "emai/hire me!", url = "mailto:contact@bex.computer"},
