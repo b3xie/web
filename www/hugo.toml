@@ -12,6 +12,6 @@ theme = "glim-midnight"
     {name = "behance", url = "https://be.net/beccanyx"},
     {name = "github", url = "https://github.com/b3xie"},
     {name = "flickr", url = "https://www.flickr.com/people/beccanyx"},
-    {name = "emai/hire me!", url = "mailto:contact@bex.computer"},
+    {name = "email/hire me!", url = "mailto:contact@bex.computer"},
     ]
     background = "bg.mp4"
