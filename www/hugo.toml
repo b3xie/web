@@ -8,10 +8,11 @@ theme = "glim-midnight"
     title = "/bex"
     phrases = ["welcome", "choose your destination:"]
     links = [
-    {name = "instagram", url = "https://www.instagram.com/bex.computer"},
-    {name = "behance", url = "https://be.net/beccanyx"},
-    {name = "github", url = "https://github.com/b3xie"},
-    {name = "flickr", url = "https://www.flickr.com/people/beccanyx"},
-    {name = "email/hire me!", url = "mailto:contact@bex.computer"},
+    {name = "Instagram", url = "https://www.instagram.com/bex.computer"},
+    {name = "Behance", url = "https://be.net/beccanyx"},
+    {name = "GitHub", url = "https://github.com/b3xie"},
+    {name = "LinkedIn", url = "https://www.linkedin.com/in/rebexie/"},
+    {name = "Flickr", url = "https://www.flickr.com/people/beccanyx"},
+    {name = "Email/Hire me here!", url = "mailto:contact@bex.computer"},
     ]
     background = "bg.mp4"
