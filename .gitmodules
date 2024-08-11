@@ -1,3 +1,6 @@
 [submodule "www/themes/glim-midnight"]
 	path = www/themes/glim-midnight
 	url = https://github.com/mansoorbarri/glim-midnight.git
+[submodule "cv/cv/themes/typo"]
+	path = cv/cv/themes/typo
+	url = https://github.com/tomfran/typo.git
