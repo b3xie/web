@@ -1,4 +1,4 @@
-Email: rebecca@bex.computer
+rebecca@bex.computer
 
 [LinkedIn](https://linkedin.com/in/rebexie)  
 [GitHub](https://github.com/b3xie)
