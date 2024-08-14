@@ -1,4 +1,3 @@
-**Rebecca Nyx B.**  
 Email: rebecca@bex.computer
 
 [LinkedIn](https://linkedin.com/in/rebexie)  
