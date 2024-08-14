@@ -1,50 +1,39 @@
-> Contact info:
-- Email: b3xie@icloud.com
-- [LinkedIn](https://linkedin.com/in/rebexie)
-- [GitHub](https://github.com/b3xie)
+**Rebecca Nyx B.**  
+Email: rebecca@bex.computer
 
-### Summary
+[LinkedIn](https://linkedin.com/in/rebexie)  
+[GitHub](https://github.com/b3xie)
 
-Software Engineer with a technical degree in System Development. Experienced in various technologies, languages, frameworks, managing cloud and local infrastructure, automating deployment processes, and optimizing system performance.
+**Software Developer**  
+Focused on programming efficient and secure software solutions, as well as automating processes, tests, telemetry, and managing cloud or on-premises infrastructure.
 
-### Work Experience
+### Professional Experience
 
-### Software Developer - Ember Labs
-**Oct 2023 - Mar 2024**
+**Ember Labs**  
+*Freelance Software Developer*  
+**October 2023 - March 2024 (5 months)**  
+- Developed a customer support page that centralized refund requests and support tickets. This change resulted in a significant reduction in ticket response time and increased customer support efficiency. Additionally, provided ongoing support for critical code and infrastructure issues, identifying and resolving bugs quickly to ensure uninterrupted service.
 
-- Engineered custom solutions for a digital asset marketplace using Typescript (Node.js backend, React.js frontend), enhancing platform scalability and performance.
-- Led DevOps initiatives by building and managing VMs, writing Bash scripts,
-  orchestrating containers, setting up networking, domains, and DNS, improving
-  deployment efficiency and reliability.
+**Triângulos Tecnologia**  
+*Junior Software Developer*  
+**December 2022 - October 2023 (10 months)**  
+- Increased customer satisfaction and product functionality by implementing new features for a custom ad manager for the Meta ecosystem using TypeScript (Node.js, GraphQL, React.js, Relay).
 
-### Software Developer - Triângulos Tecnologia
-**Dec 2022 - Oct 2023**
+### Academic Project
 
-- Implemented new features for a custom ads manager for the Meta ecosystem using Typescript (Node.js backend, GraphQL, React with Relay), enhancing client satisfaction and product functionality.
-- Collaborated with clients and Product Owner to fix beta tester-reported bugs, improving system stability and user experience.
-- Created and integrated CI/CD pipelines to streamline testing and deployment,
-  enhancing efficiency and reducing manual errors.
-- Conducted comprehensive unit and integration testing using Jest, ensuring high code quality and reliability.
-
-### Software Developer - Senhor Bolo Doceria
-**May 2021 - Dec 2021**
-
-- Developed a mobile sales app in Flutter/Dart for a local cake shop, improving sales and operational efficiency.
-
-
-## Technical Skills
-
-- **Programming Languages**: Javascript, Typescript, Go, Rust, Python, Java, Bash, Dart, SQL.
-- **Technologies & Frameworks**: Git, React.js/Next.js, Flutter, Jest, Docker, Docker Compose, Kubernetes, REST, GraphQL, HTMX, Linux (Debian, Arch), Samba (SMB protocol), NGINX, Grafana, Jenkins, Ansible, Terraform, PostgreSQL, MySQL, Redis, Portainer, Postman, AWS (EC2, DynamoDB, Route53, ECR, RDS).
+*Software Developer*  
+**May 2021 - December 2021 (7 months)**  
+- As part of my high school technical final project, I collaborated with a local bakery to understand their business needs and deliver a custom software solution. I was responsible for developing a mobile sales application using Flutter and Dart.
 
 ### Education
 
-### UFABC
-**Sep 2022 - Jun 2023**  
-Interdisciplinary Bachelor’s Degree in Science and Technology  
-- Attended classes in Natural Sciences, Maths, and Computer Science.
+**Science and Technology**  
+*UFABC*  
+**September 2022 - June 2023**  
+- Participated in classes in Natural Sciences, Mathematics, and Computer Science.
 
-### ETEC de São Paulo
-**Fev 2019 - Dez 2021**  
-Technical Degree in System Development  
-- Curriculum: Algorithms and Data Structures, Databases, Computer Hardware, Operating Systems, Software QA, Design, Web programming, Embedded Systems, Desktop programming.
+**Systems Development**  
+*Technical Course*  
+**ETEC de São Paulo**  
+**February 2019 - December 2021**  
+- Curriculum: Algorithms and Data Structures, Databases, Computer Hardware, Operating Systems, Software Quality, Design, Web Programming, Embedded Systems, Desktop Programming.
