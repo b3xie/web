@@ -1,18 +1,15 @@
-baseURL = 'https://bex.computer/'
+baseURL = 'https://nsfw.bex.computer/'
 languageCode = 'en-us'
-title = 'bex.computer'
+title = '/bex/nsfw/'
 theme = "glim-midnight"
 
 
 [params]
-    title = "/bex"
-    phrases = ["welcome", "choose your destination:"]
+    title = "/bex/nsfw"
+    phrases = ["choose your destination:"]
     links = [
-    {name = "Instagram", url = "https://www.instagram.com/bex.computer"},
-    {name = "Behance", url = "https://be.net/beccanyx"},
-    {name = "GitHub", url = "https://github.com/b3xie"},
-    {name = "LinkedIn", url = "https://www.linkedin.com/in/rebexie/"},
-    {name = "Flickr", url = "https://www.flickr.com/people/beccanyx"},
-    {name = "Email/Hire me here!", url = "mailto:contact@bex.computer"},
+    {name = "OF (+18 only)", url = "https://onlyfans.com/rawbex"},
+    {name = "Telegram", url = "https://t.me/woofnuke"},
+    {name = "Email", url = "mailto:helpdesk@bex.computer"}
     ]
     background = "bg.mp4"
